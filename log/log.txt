@@ -1,0 +1,45 @@
+[send_request] 响应长度: 471, 前100字符: mtopjsonp5({"ret":["FAIL_SYS_USER_VALIDATE","RGV587_ERROR::SM::哎哟喂,被挤爆啦,请稍后重试"],"data":{"url":"https
+[风控] 检测到 FAIL_SYS_USER_VALIDATE，触发滑块挑战
+[风控] 提取到 punish URL
+[x5sec] 已删除旧 cookie: x5secdata
+[x5sec] 已删除旧 cookie: x5sectag
+[x5sec] 已删除旧 cookie: x5sec
+[x5sec] 请求 punish 页面: https://h5api.m.taobao.com:443//h5/mtop.relationrecommend.wirelessrecommend.recommend/2.0/_____tmd_____/punish?x5secdata=xg003
+f085295a0668ajac059e626014302812d3ba409cdfbb8f21788328124a-717315356a1436303346abaac3eaa33b14e724eb404a1b9dfe88a26b874a5ce7__bx__h5api.m.taobao.com:443/h5/mtop.relationrecommend.wirelessrecommend.recommend/2.0&x5step=2&action=captcha&pureCaptcha=
+[x5sec] punish 响应长度: 84746
+[x5sec] punish 响应状态码: 200
+[x5sec] punish 响应头 keys: ['date', 'content-type', 'vary', 'server', 'access-control-allow-credentials', 'access-control-allow-origin', 'bxuuid', 'bxpunish', 'eagleeye-traceid', 'content-encoding']
+[x5sec] punish resp.cookies 类型: <class 'curl_cffi.requests.cookies.Cookies'>, 数量: 0
+[x5sec] punish 页面内容前 200 字符:
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+        content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+
+[x5sec] 已保存 punish 页面到 punish_page.html
+[x5sec] 提取到配置, token=c059e626014302812d3ba409cdfbb8f2
+[x5sec] 手动设置 x5secdata cookie: xg003f085295a0668ajac059e626014302812d3ba409cdfbb8f217883281...
+[x5sec] 手动设置 x5sectag cookie: c059e626014302812d3ba409cdfbb8f2
+
+[滑块验证] 检测到 x5sec 风控，开始解决...
+[滑块验证] token=c059e626014302812d3ba409cdfbb8f2
+[滑块验证] appKey=X82Y__3d6b3f2c4a6af478197c5a023cfff843
+[滑块验证] PATH=/h5/mtop.relationrecommend.wirelessrecommend.recommend/2.0
+[滑块验证] base_url=https://h5api.m.taobao.com
+[滑块验证] submit_prefix=https://h5api.m.taobao.com/h5/mtop.relationrecommend.wirelessrecommend.recommend/2.0
+[滑块验证] x5secdata=xg003f085295a0668ajac059e626014302812d3ba409cdfbb8f217883281...
+[滑块验证] bx-ua 长度: 1416
+[滑块验证] bx-umidtoken: T2gAbxdWVw70WpSexT3JGQUajVw3bi...
+[滑块验证] 使用主 session（TLS 指纹一致）
+[滑块验证] 当前 session cookies: ['cna', 'isg', 'tfstk', '_umid', 'umidToken', 'mtop_partitioned_detect', '_m_h5_tk', '_m_h5_tk_enc', 'x5secdata', 'x5sectag']
+[滑块验证] 请求题目: https://h5api.m.taobao.com/h5/mtop.relationrecommend.wirelessrecommend.recommend/2.0/_____tmd_____/newslidecaptcha
+[滑块验证] captcha_params: {"token": "c059e626014302812d3ba409cdfbb8f2", "appKey": "X82Y__3d6b3f2c4a6af478197c5a023cfff843", "x5secdata": "xg003f085295a
+0668ajac059e626014302812d3ba409cdfbb8f21788328124a-717315356a1436303346abaac3eaa33b14e724eb404a1b9dfe88a26b874a5ce7__bx__h5api.m.taobao.com:443/h5/mtop.relationrecommend.wirelessrecommend.recommend/2.0", "v": "09078259994024287", "extra": ""}
+[滑块验证] 等待 4.9s 后请求 captcha...
+[滑块验证] 响应: {"code": 304, "dt": "success", "ec": 200, "result": {"code": 304, "sig": "from bx"}, "success": true}
+[滑块验证] 获取题目失败, code=304
+[滑块验证] bx 风控拦截! 可能原因: TLS指纹/cookie不一致/x5secdata过期
+[send_request] 响应长度: 471, 前100字符: mtopjsonp8({"ret":["FAIL_SYS_USER_VALIDATE","RGV587_ERROR::SM::哎哟喂,被挤爆啦,请稍后重试"],"data":{"url":"https

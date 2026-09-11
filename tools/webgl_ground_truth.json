@@ -1,0 +1,388 @@
+{
+  "webgl1": {
+    "params": {
+      "3379": 16384,
+      "3386": [
+        32767,
+        32767
+      ],
+      "3410": 8,
+      "3411": 8,
+      "3412": 8,
+      "3413": 8,
+      "3414": 24,
+      "3415": 0,
+      "7936": "WebKit",
+      "7937": "WebKit WebGL",
+      "7938": "WebGL 1.0 (OpenGL ES 2.0 Chromium)",
+      "33901": [
+        1.0,
+        1024.0
+      ],
+      "33902": [
+        1.0,
+        1.0
+      ],
+      "34024": 16384,
+      "34047": null,
+      "34076": 16384,
+      "34921": 16,
+      "34930": 16,
+      "35660": 16,
+      "35661": 32,
+      "36347": 4096,
+      "36348": 30,
+      "36349": 1024,
+      "37445": null,
+      "37446": null
+    },
+    "extensions": [
+      "ANGLE_instanced_arrays",
+      "EXT_blend_minmax",
+      "EXT_clip_control",
+      "EXT_color_buffer_half_float",
+      "EXT_depth_clamp",
+      "EXT_disjoint_timer_query",
+      "EXT_float_blend",
+      "EXT_frag_depth",
+      "EXT_polygon_offset_clamp",
+      "EXT_shader_texture_lod",
+      "EXT_texture_compression_bptc",
+      "EXT_texture_compression_rgtc",
+      "EXT_texture_filter_anisotropic",
+      "EXT_texture_mirror_clamp_to_edge",
+      "EXT_sRGB",
+      "KHR_parallel_shader_compile",
+      "OES_element_index_uint",
+      "OES_fbo_render_mipmap",
+      "OES_standard_derivatives",
+      "OES_texture_float",
+      "OES_texture_float_linear",
+      "OES_texture_half_float",
+      "OES_texture_half_float_linear",
+      "OES_vertex_array_object",
+      "WEBGL_blend_func_extended",
+      "WEBGL_color_buffer_float",
+      "WEBGL_compressed_texture_s3tc",
+      "WEBGL_compressed_texture_s3tc_srgb",
+      "WEBGL_debug_renderer_info",
+      "WEBGL_debug_shaders",
+      "WEBGL_depth_texture",
+      "WEBGL_draw_buffers",
+      "WEBGL_lose_context",
+      "WEBGL_multi_draw",
+      "WEBGL_polygon_mode"
+    ],
+    "precision": {
+      "35632_36336": {
+        "rangeMin": 127,
+        "rangeMax": 127,
+        "precision": 23
+      },
+      "35632_36337": {
+        "rangeMin": 127,
+        "rangeMax": 127,
+        "precision": 23
+      },
+      "35632_36338": {
+        "rangeMin": 127,
+        "rangeMax": 127,
+        "precision": 23
+      },
+      "35632_36339": {
+        "rangeMin": 31,
+        "rangeMax": 30,
+        "precision": 0
+      },
+      "35632_36340": {
+        "rangeMin": 31,
+        "rangeMax": 30,
+        "precision": 0
+      },
+      "35632_36341": {
+        "rangeMin": 31,
+        "rangeMax": 30,
+        "precision": 0
+      },
+      "35633_36336": {
+        "rangeMin": 127,
+        "rangeMax": 127,
+        "precision": 23
+      },
+      "35633_36337": {
+        "rangeMin": 127,
+        "rangeMax": 127,
+        "precision": 23
+      },
+      "35633_36338": {
+        "rangeMin": 127,
+        "rangeMax": 127,
+        "precision": 23
+      },
+      "35633_36339": {
+        "rangeMin": 31,
+        "rangeMax": 30,
+        "precision": 0
+      },
+      "35633_36340": {
+        "rangeMin": 31,
+        "rangeMax": 30,
+        "precision": 0
+      },
+      "35633_36341": {
+        "rangeMin": 31,
+        "rangeMax": 30,
+        "precision": 0
+      }
+    },
+    "constants": {
+      "MAX_TEXTURE_SIZE": 3379,
+      "MAX_TEXTURE_IMAGE_UNITS": 34930,
+      "MAX_VERTEX_TEXTURE_IMAGE_UNITS": 35660,
+      "MAX_VERTEX_UNIFORM_VECTORS": 36347,
+      "MAX_TEXTURE_LOD_BIAS": null,
+      "MAX_UNIFORM_BLOCK_SIZE": null,
+      "MAX_COMBINED_VERTEX_UNIFORM_COMPONENTS": null,
+      "MAX_COMBINED_UNIFORM_BLOCKS": null,
+      "MAX_UNIFORM_BUFFER_BINDINGS": null,
+      "COLOR_BUFFER_BIT": 16384,
+      "DEPTH_BUFFER_BIT": 256,
+      "DEPTH_TEST": 2929,
+      "LEQUAL": 515
+    },
+    "attrs": {
+      "alpha": true,
+      "antialias": true,
+      "depth": true,
+      "desynchronized": false,
+      "failIfMajorPerformanceCaveat": false,
+      "powerPreference": "default",
+      "premultipliedAlpha": true,
+      "preserveDrawingBuffer": false,
+      "stencil": false,
+      "xrCompatible": false
+    },
+    "debugInfo": {
+      "vendor": "Google Inc. (Intel)",
+      "renderer": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x000046A6) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+    },
+    "aniso": 34047
+  },
+  "webgl2": {
+    "params": {
+      "3379": 16384,
+      "3386": [
+        32767,
+        32767
+      ],
+      "3410": 8,
+      "3411": 8,
+      "3412": 8,
+      "3413": 8,
+      "3414": 24,
+      "3415": 0,
+      "7936": "WebKit",
+      "7937": "WebKit WebGL",
+      "7938": "WebGL 2.0 (OpenGL ES 3.0 Chromium)",
+      "33901": [
+        1.0,
+        1024.0
+      ],
+      "33902": [
+        1.0,
+        1.0
+      ],
+      "34024": 16384,
+      "34047": null,
+      "34076": 16384,
+      "34921": 16,
+      "34930": 16,
+      "35660": 16,
+      "35661": 32,
+      "35724": "WebGL GLSL ES 3.00 (OpenGL ES GLSL ES 3.0 Chromium)",
+      "36347": 4096,
+      "36348": 30,
+      "36349": 1024,
+      "37445": null,
+      "37446": null
+    },
+    "extensions": [
+      "EXT_clip_control",
+      "EXT_color_buffer_float",
+      "EXT_color_buffer_half_float",
+      "EXT_conservative_depth",
+      "EXT_depth_clamp",
+      "EXT_disjoint_timer_query_webgl2",
+      "EXT_float_blend",
+      "EXT_polygon_offset_clamp",
+      "EXT_render_snorm",
+      "EXT_texture_compression_bptc",
+      "EXT_texture_compression_rgtc",
+      "EXT_texture_filter_anisotropic",
+      "EXT_texture_mirror_clamp_to_edge",
+      "EXT_texture_norm16",
+      "KHR_parallel_shader_compile",
+      "NV_shader_noperspective_interpolation",
+      "OES_draw_buffers_indexed",
+      "OES_sample_variables",
+      "OES_shader_multisample_interpolation",
+      "OES_texture_float_linear",
+      "OVR_multiview2",
+      "WEBGL_blend_func_extended",
+      "WEBGL_clip_cull_distance",
+      "WEBGL_compressed_texture_s3tc",
+      "WEBGL_compressed_texture_s3tc_srgb",
+      "WEBGL_debug_renderer_info",
+      "WEBGL_debug_shaders",
+      "WEBGL_lose_context",
+      "WEBGL_multi_draw",
+      "WEBGL_polygon_mode",
+      "WEBGL_provoking_vertex",
+      "WEBGL_stencil_texturing"
+    ],
+    "precision": {
+      "35632_36336": {
+        "rangeMin": 127,
+        "rangeMax": 127,
+        "precision": 23
+      },
+      "35632_36337": {
+        "rangeMin": 127,
+        "rangeMax": 127,
+        "precision": 23
+      },
+      "35632_36338": {
+        "rangeMin": 127,
+        "rangeMax": 127,
+        "precision": 23
+      },
+      "35632_36339": {
+        "rangeMin": 31,
+        "rangeMax": 30,
+        "precision": 0
+      },
+      "35632_36340": {
+        "rangeMin": 31,
+        "rangeMax": 30,
+        "precision": 0
+      },
+      "35632_36341": {
+        "rangeMin": 31,
+        "rangeMax": 30,
+        "precision": 0
+      },
+      "35633_36336": {
+        "rangeMin": 127,
+        "rangeMax": 127,
+        "precision": 23
+      },
+      "35633_36337": {
+        "rangeMin": 127,
+        "rangeMax": 127,
+        "precision": 23
+      },
+      "35633_36338": {
+        "rangeMin": 127,
+        "rangeMax": 127,
+        "precision": 23
+      },
+      "35633_36339": {
+        "rangeMin": 31,
+        "rangeMax": 30,
+        "precision": 0
+      },
+      "35633_36340": {
+        "rangeMin": 31,
+        "rangeMax": 30,
+        "precision": 0
+      },
+      "35633_36341": {
+        "rangeMin": 31,
+        "rangeMax": 30,
+        "precision": 0
+      }
+    },
+    "constants": {
+      "MAX_TEXTURE_SIZE": 3379,
+      "MAX_TEXTURE_IMAGE_UNITS": 34930,
+      "MAX_VERTEX_TEXTURE_IMAGE_UNITS": 35660,
+      "MAX_VERTEX_UNIFORM_VECTORS": 36347,
+      "MAX_TEXTURE_LOD_BIAS": 34045,
+      "MAX_UNIFORM_BLOCK_SIZE": 35376,
+      "MAX_COMBINED_VERTEX_UNIFORM_COMPONENTS": 35377,
+      "MAX_COMBINED_UNIFORM_BLOCKS": 35374,
+      "MAX_UNIFORM_BUFFER_BINDINGS": 35375,
+      "COLOR_BUFFER_BIT": 16384,
+      "DEPTH_BUFFER_BIT": 256,
+      "DEPTH_TEST": 2929,
+      "LEQUAL": 515
+    },
+    "attrs": {
+      "alpha": true,
+      "antialias": true,
+      "depth": true,
+      "desynchronized": false,
+      "failIfMajorPerformanceCaveat": false,
+      "powerPreference": "default",
+      "premultipliedAlpha": true,
+      "preserveDrawingBuffer": false,
+      "stencil": false,
+      "xrCompatible": false
+    }
+  },
+  "navigator": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "platform": "Win32",
+    "hardwareConcurrency": 16,
+    "deviceMemory": null,
+    "maxTouchPoints": 10,
+    "language": "zh-CN",
+    "languages": [
+      "zh-CN"
+    ],
+    "vendor": "Google Inc.",
+    "webdriver": true,
+    "userAgentData": null,
+    "hasMediaKeySystemAccess": "undefined",
+    "hasWakeLock": "undefined",
+    "hasRequestMIDIAccess": "undefined",
+    "hasGetBattery": "undefined",
+    "plugins": [
+      "PDF Viewer|internal-pdf-viewer",
+      "Chrome PDF Viewer|internal-pdf-viewer",
+      "Chromium PDF Viewer|internal-pdf-viewer",
+      "Microsoft Edge PDF Viewer|internal-pdf-viewer",
+      "WebKit built-in PDF|internal-pdf-viewer"
+    ],
+    "mimeTypes": [
+      "application/pdf",
+      "text/pdf"
+    ]
+  },
+  "performance": {
+    "memory": {
+      "jsHeapSizeLimit": 3760000000,
+      "totalJSHeapSize": 10000000,
+      "usedJSHeapSize": 10000000
+    },
+    "hasGetEntries": "function",
+    "hasGetEntriesByName": "function",
+    "hasGetEntriesByType": "function",
+    "hasNavigation": "object",
+    "timeOrigin": 1789016600388.9,
+    "timingKeys": []
+  },
+  "screen": {
+    "width": 1463,
+    "height": 867,
+    "availWidth": 1463,
+    "availHeight": 867,
+    "colorDepth": 24,
+    "pixelDepth": 24,
+    "dpr": 1.75,
+    "innerWidth": 1463,
+    "innerHeight": 867
+  },
+  "historyLength": 1,
+  "canvas2dDataURL": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAxUlEQVR4AezVMQ6EQAxDUbT3P/T2aaKICvvRjSYF/v6B31P+AFAuwMMABpQTsALlAvgIWgErUE7ACpQL4C9QtwLTeAAmkbYzA9oan3kZMIm0nRnQ1vjMy4BJpO3MgLbGZ1"
+}

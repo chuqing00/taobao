@@ -1,0 +1,14 @@
+{
+  "name": "ali-bx-params",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Local fireye env to generate bx-ua and bx-umidtoken",
+  "scripts": {
+    "gen": "node run_bx_ua_local.js",
+    "gen:json": "node run_bx_ua_local.js --json"
+  },
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "jsdom": "^26.1.0"
+  }
+}

@@ -1,0 +1,28 @@
+Metadata-Version: 2.4
+Name: pyhttpx
+Version: 2.10.9
+Summary: HTTP library.
+Home-page: https://github.com/zero3301/pyhttpx
+Author: 3301
+Author-email: 1114135928@qq.com
+License: MIT Licence
+Keywords: pip,pyhttpx
+Platform: any
+License-File: LICENSE
+Requires-Dist: cryptography==36.0.1
+Requires-Dist: rsa==4.8
+Requires-Dist: pyOpenSSL==21.0.0
+Requires-Dist: brotli
+Requires-Dist: hpack==4.0.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: license-file
+Dynamic: platform
+Dynamic: requires-dist
+Dynamic: summary
+
+HTTP library, TLS supported version：tls1.2/tls1.3, HTTP supported version: http1.1/http2

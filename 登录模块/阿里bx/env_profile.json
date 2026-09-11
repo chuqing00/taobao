@@ -1,0 +1,60 @@
+{
+  "dumpedAt": "2026-08-31T11:03:30.841Z",
+  "env": {
+    "href": "https://www.taobao.com/search?q=test",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "platform": "Win32",
+    "language": "zh-CN",
+    "languages": [
+      "zh-CN",
+      "zh"
+    ],
+    "hardwareConcurrency": 16,
+    "deviceMemory": 32,
+    "maxTouchPoints": 10,
+    "screen": {
+      "width": 1463,
+      "height": 915,
+      "availWidth": 1463,
+      "availHeight": 867,
+      "colorDepth": 24,
+      "pixelDepth": 24
+    },
+    "innerWidth": 1038,
+    "innerHeight": 726,
+    "devicePixelRatio": 1.75,
+    "canvasFpHead": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPAAAAA8CAYAAABYfzddAAAOkUlEQVR4AexZXWxcxRU+cxMiKpVNaB/aYjukQEuJCBIqisVPqj",
+    "webgl": {
+      "vendor": "Google Inc. (AMD)",
+      "renderer": "ANGLE (AMD, AMD Radeon 780M Graphics (0x00001900) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+      "version": "WebGL 1.0 (OpenGL ES 2.0 Chromium)"
+    },
+    "hasFY": true,
+    "nick": "天选之人"
+  },
+  "cookieNames": [
+    "JSESSIONID",
+    "_m_h5_tk_enc",
+    "tmp0",
+    "siv20",
+    "mtop_partitioned_detect",
+    "xlly_s",
+    "_bl_uid",
+    "t",
+    "sgcookie",
+    "ivActionType",
+    "last_u_xianyu_baxia",
+    "last_cc",
+    "_tb_token_",
+    "tracknick",
+    "_m_h5_tk",
+    "cookie2",
+    "_samesite_flag_",
+    "csg",
+    "XSRF-TOKEN",
+    "tfstk",
+    "unb",
+    "arms_uid",
+    "_uab_collina"
+  ]
+}

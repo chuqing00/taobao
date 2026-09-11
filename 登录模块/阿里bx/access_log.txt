@@ -1,0 +1,167 @@
+===== ACCESS LOG (166 unique) =====
+navigator.userAgent string "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+navigator.platform string "Win32"
+navigator.webkitTemporaryStorage object
+performance.memory object
+navigator.webdriver boolean false
+canvas.getContext(string "2d")
+  ctx[2d].clearRect function
+  ctx[2d].clearRect(number 0,number 0,number 64,number 64)
+navigator.requestMediaKeySystemAccess function
+navigator.requestMediaKeySystemAccess(string "com.widevine.alpha",array[1])
+navigator.requestMediaKeySystemAccess(string "com.microsoft.playready",array[1])
+navigator.requestMediaKeySystemAccess(string "com.apple.fps",array[1])
+navigator.requestMediaKeySystemAccess(string "org.w3.clearkey",array[1])
+navigator.wakeLock object
+performance.getEntries function
+navigator.getBattery function
+navigator.getBattery()
+navigator.userAgentData object
+navigator.mediaDevices object
+navigator.storage object
+navigator.requestMIDIAccess function
+navigator.requestMIDIAccess()
+performance.getEntriesByName function
+canvas.getContext(string "webgl")
+window.__envWebgl object
+  ctx[webg].getExtension function
+  ctx[webg].getExtension(string "WEBGL_debug_renderer_info")
+  ctx[webg].getParameter function
+navigator.languages array[2]
+  ctx[webg].getParameter(number 37445)
+  ctx[webg].getParameter(number 37446)
+  ctx[webg].getSupportedExtensions function
+  ctx[webg].getSupportedExtensions()
+  ctx[webg].MAX_TEXTURE_SIZE number 3379
+  ctx[webg].getParameter(number 3379)
+  ctx[webg].MAX_TEXTURE_IMAGE_UNITS number 34930
+  ctx[webg].getParameter(number 34930)
+  ctx[webg].MAX_VERTEX_TEXTURE_IMAGE_UNITS number 35660
+  ctx[webg].getParameter(number 35660)
+  ctx[webg].MAX_VERTEX_UNIFORM_VECTORS number 36347
+  ctx[webg].getParameter(number 36347)
+canvas.getContext(string "webgl2")
+  ctx[webg].MAX_TEXTURE_LOD_BIAS number 34045
+  ctx[webg].getParameter(number 34045)
+  ctx[webg].MAX_UNIFORM_BLOCK_SIZE number 35376
+  ctx[webg].getParameter(number 35376)
+  ctx[webg].MAX_COMBINED_VERTEX_UNIFORM_COMPONENTS number 35377
+  ctx[webg].getParameter(number 35377)
+  ctx[webg].MAX_COMBINED_UNIFORM_BLOCKS number 35374
+  ctx[webg].getParameter(number 35374)
+  ctx[webg].MAX_UNIFORM_BUFFER_BINDINGS number 35375
+  ctx[webg].getParameter(number 35375)
+navigator.buildID undefined
+performance.Symbol(impl) object
+performance.timeOrigin number 1788332664369.5916
+screen.availWidth number 1463
+navigator.appVersion string "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,"
+navigator.vendor string "Google Inc."
+navigator.hardwareConcurrency number 16
+performance.getEntriesByType function
+performance.getEntriesByType(string "resource")
+navigator.language string "zh-CN"
+history.Symbol(impl) object
+history.length number 1
+performance.getEntriesByName(string "https://7e8rmj.tdum.alibaba.com/dss.js")
+performance.getEntriesByName(string "https://7f7j68.tdum.alibaba.com/dss.js")
+performance.getEntriesByName(string "https://g.alicdn.com/AWSC/uab/1.140.0/collina.js")
+  ctx[webg].createBuffer function
+  ctx[webg].createBuffer()
+  ctx[webg].bindBuffer function
+  ctx[webg].bindBuffer(number 34962,object)
+  ctx[webg].bufferData function
+  ctx[webg].bufferData(number 34962,object,number 35044)
+  ctx[webg].createProgram function
+  ctx[webg].createProgram()
+  ctx[webg].createShader function
+  ctx[webg].createShader(number 35633)
+  ctx[webg].shaderSource function
+  ctx[webg].shaderSource(object,string "attribute vec2 attrVertex;varying vec2 varyinTexCoordinate;u")
+  ctx[webg].compileShader function
+  ctx[webg].compileShader(object)
+  ctx[webg].createShader(number 35632)
+  ctx[webg].shaderSource(object,string "precision mediump float;varying vec2 varyinTexCoordinate;voi")
+  ctx[webg].attachShader function
+  ctx[webg].attachShader(object,object)
+  ctx[webg].linkProgram function
+  ctx[webg].linkProgram(object)
+  ctx[webg].useProgram function
+  ctx[webg].useProgram(object)
+  ctx[webg].getAttribLocation function
+  ctx[webg].getAttribLocation(object,string "attrVertex")
+  ctx[webg].getUniformLocation function
+  ctx[webg].getUniformLocation(object,string "uniformOffset")
+  ctx[webg].enableVertexAttribArray function
+  ctx[webg].enableVertexAttribArray(undefined)
+  ctx[webg].vertexAttribPointer function
+  ctx[webg].vertexAttribPointer(number 0,number 3,number 5126,boolean false,number 0,number 0)
+  ctx[webg].uniform2f function
+  ctx[webg].uniform2f(object,number 1,number 1)
+  ctx[webg].drawArrays function
+  ctx[webg].drawArrays(number 5,number 0,number 3)
+  ctx[webg].getParameter(number 33902)
+  ctx[webg].clearColor function
+  ctx[webg].clearColor(number 0,number 0,number 0,number 1)
+  ctx[webg].DEPTH_TEST number 2929
+  ctx[webg].enable function
+  ctx[webg].enable(number 2929)
+  ctx[webg].LEQUAL number 515
+  ctx[webg].depthFunc function
+  ctx[webg].depthFunc(number 515)
+  ctx[webg].COLOR_BUFFER_BIT number 16384
+  ctx[webg].DEPTH_BUFFER_BIT number 256
+  ctx[webg].clear function
+  ctx[webg].clear(number 16640)
+  ctx[webg].getParameter(number 33901)
+  ctx[webg].getParameter(number 3413)
+  ctx[webg].getContextAttributes function
+  ctx[webg].getContextAttributes()
+  ctx[webg].getParameter(number 3412)
+  ctx[webg].getParameter(number 3414)
+  ctx[webg].getParameter(number 3411)
+  ctx[webg].getExtension(string "EXT_texture_filter_anisotropic")
+  ctx[webg].getParameter(number 34047)
+  ctx[webg].getParameter(number 35661)
+  ctx[webg].getParameter(number 34076)
+  ctx[webg].getParameter(number 36349)
+  ctx[webg].getParameter(number 34024)
+  ctx[webg].getParameter(number 36348)
+  ctx[webg].getParameter(number 34921)
+  ctx[webg].getParameter(number 3386)
+  ctx[webg].getParameter(number 3410)
+  ctx[webg].getParameter(number 7937)
+  ctx[webg].getParameter(number 35724)
+  ctx[webg].getParameter(number 3415)
+  ctx[webg].getParameter(number 7936)
+  ctx[webg].getParameter(number 7938)
+  ctx[webg].getShaderPrecisionFormat function
+  ctx[webg].getShaderPrecisionFormat(number 35633,number 36338)
+  ctx[webg].getShaderPrecisionFormat(number 35633,number 36337)
+  ctx[webg].getShaderPrecisionFormat(number 35633,number 36336)
+  ctx[webg].getShaderPrecisionFormat(number 35632,number 36338)
+  ctx[webg].getShaderPrecisionFormat(number 35632,number 36337)
+  ctx[webg].getShaderPrecisionFormat(number 35632,number 36336)
+  ctx[webg].getShaderPrecisionFormat(number 35633,number 36341)
+  ctx[webg].getShaderPrecisionFormat(number 35633,number 36340)
+  ctx[webg].getShaderPrecisionFormat(number 35633,number 36339)
+  ctx[webg].getShaderPrecisionFormat(number 35632,number 36341)
+  ctx[webg].getShaderPrecisionFormat(number 35632,number 36340)
+  ctx[webg].getShaderPrecisionFormat(number 35632,number 36339)
+  ctx[webg].getExtension(string "WEBGL_lose_context")
+screen.colorDepth number 24
+screen.pixelDepth number 24
+navigator.deviceMemory number 32
+screen.width number 1463
+screen.height number 915
+screen.availHeight number 867
+navigator.cookieEnabled boolean true
+navigator.Symbol(impl) object
+navigator.appCodeName string "Mozilla"
+navigator.appName string "Netscape"
+navigator.plugins array[5]
+navigator.oscpu undefined
+navigator.connection object
+performance.navigation object
+performance.timing object
+navigator.maxTouchPoints number 10
